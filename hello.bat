@@ -1,3 +1,3 @@
 echo "Hello World"
 
-echo "I am in Defect Branch"
+echo "I am in Defect Branch Build Trigger"
